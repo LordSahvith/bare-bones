@@ -15,3 +15,5 @@ nbproject
 .gitattributes
 .DS_Store
 *.code-workspace
+
+build/css/
