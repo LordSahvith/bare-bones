@@ -1,0 +1,16 @@
+*.css.map
+*.DS_Store
+node_modules/
+package-lock.json
+
+.buildpath
+.cache
+.metadata
+.project
+.settings
+.vscode
+atlassian*
+nbproject
+.idea
+.gitattributes
+.DS_Store
