@@ -14,4 +14,4 @@ nbproject
 .idea
 .gitattributes
 .DS_Store
-.code-workspace
+*.code-workspace
